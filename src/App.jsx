@@ -1,5 +1,5 @@
 import { Header } from "./components/Home";
-import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom'
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 import { Home } from './components/Home'
 import { Company } from './components/Company'
 import { Contato } from './components/Contato'
